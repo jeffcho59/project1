@@ -1,0 +1,17 @@
+What is a Design Pattern?
+
+
+A design pattern is a template to solve the problems that we have (Javascript). 
+They're reusable software solutions that are used for common problems that programmers 
+experience when writing code.
+
+
+Since design patterns are solutions that are often used for common problems, many programmers 
+are familiar with design patterns. The sooner you learn and are familiar with design patterns, 
+the sooner you will learn the vocabulary for developers to communicate easier and faster.
+
+Design patterns prevent minor issues that can cause major problems in the application development 
+process. They also provide generalized solutions which are documented in a fashion that doesn't 
+require them to be tired to a specific problem. It can also decrease the file size footprint code 
+by avoiding repetition.
+
